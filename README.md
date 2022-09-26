@@ -1,1 +1,1 @@
-## [A Random Quote Generator](https://floferno.github.io/RandomQuoteMachine)
+## Random Quote Machine
